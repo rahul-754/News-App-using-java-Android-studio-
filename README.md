@@ -67,8 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Support
 
-For support, contact [maintainer's email].
+For support, contact - rahulkumar69953175@gmail.com
 
 ---
 
-Feel free to customize the content according to your specific project details and requirements. Additionally, replace placeholders like `[API Name]`, `[source]`, `[maintainer's email]`, and others with actual information.
