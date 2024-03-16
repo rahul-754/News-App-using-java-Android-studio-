@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67579636763",
+    "project_id": "realnews-d1e47",
+    "storage_bucket": "realnews-d1e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67579636763:android:cfcd9326702c9fd57d5cbe",
+        "android_client_info": {
+          "package_name": "com.example.realnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67579636763-h9g6j0l7ikavgnh18qsp7sltc6prr894.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoNRBXvHmvdHU5fRk1WLSxYUH_-D350yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67579636763-h9g6j0l7ikavgnh18qsp7sltc6prr894.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
