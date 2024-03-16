@@ -28,7 +28,7 @@ This Android application is designed to provide users with the latest news from 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/news-app.git
+    git clone https://github.com/rahul-754/news-app.git
     ```
 
 2. Open the project in Android Studio.
